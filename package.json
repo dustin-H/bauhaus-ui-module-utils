@@ -1,0 +1,31 @@
+{
+	"name": "bauhaus-ui-module-utils",
+	"version": "0.0.1",
+	"description": "Module utils for BAUHAUS UI",
+	"main": "index.js",
+	"files": [
+		"npm/"
+	],
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/dustin-H/bauhaus-ui-module-utils.git"
+	},
+	"keywords": [
+		"bauhaus-js",
+		"bauhausjs",
+		"bauhaus-ui",
+		"bauhausui",
+		"bauhaus",
+		"react",
+		"redux"
+	],
+	"author": "Dustin Hoffner",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/dustin-H/bauhaus-ui-module-utils/issues"
+	},
+	"homepage": "https://github.com/dustin-H/bauhaus-ui-module-utils#readme"
+}
