@@ -1,6 +1,6 @@
 {
 	"name": "bauhaus-ui-module-utils",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "Module utils for BAUHAUS UI",
 	"main": "index.js",
 	"files": [
